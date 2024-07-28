@@ -1,0 +1,5 @@
+/*=== Si deseas tener mayor prioridad que Bootstrap ( !important )===*/
+.titulo{
+    padding: 100px !important;
+    background-color: violet;
+}
